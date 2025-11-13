@@ -11,12 +11,9 @@ h3{
     text-align: center;
 }
 
-.vid1{
-    margin-left: 500px;
-}
-
 img{
     margin-left: auto;
     margin-right: auto;
     padding: 10px;
+    color: blue;
 }
