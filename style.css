@@ -12,6 +12,8 @@ h3{
 }
 
 img{
-    margin: auto;
-    width: "450px";
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 450px;
 }
